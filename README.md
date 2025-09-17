@@ -83,22 +83,6 @@ Before running this project, make sure you have:
 5. **Open your browser**
    Navigate to `http://localhost:5173`
 
-## 🏗️ Project Structure
-
-```
-src/
-├── components/          # Reusable UI components
-│   ├── ui/             # Basic UI components
-│   ├── forms/          # Form components
-│   └── layout/         # Layout components
-├── pages/              # Page components
-├── hooks/              # Custom React hooks
-├── utils/              # Utility functions
-├── types/              # TypeScript type definitions
-├── services/           # API services
-├── stores/             # State management
-└── styles/             # Global styles
-```
 
 ## 🔧 Available Scripts
 
