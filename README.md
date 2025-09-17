@@ -93,12 +93,6 @@ Before running this project, make sure you have:
 - `npm run type-check` - Run TypeScript compiler
 
 ## 🌐 Deployment
-
-### Vercel (Recommended)
-1. Connect your GitHub repository to Vercel
-2. Set environment variables in Vercel dashboard
-3. Deploy automatically on every push to main branch
-
 ### Manual Deployment
 ```bash
 npm run build
@@ -139,16 +133,6 @@ npm run build
 - Configure platform settings
 - Generate reports
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ### Development Guidelines
 - Follow TypeScript best practices
 - Use Tailwind CSS for styling
@@ -156,18 +140,12 @@ We welcome contributions! Please follow these steps:
 - Add tests for new features
 - Update documentation as needed
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🆘 Support
 
 If you encounter any issues or have questions:
 
-- 📧 Email: support@coolieservice.com
-- 💬 Discord: [Join our community](https://discord.gg/coolieservice)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/coolie-on-demand-service/issues)
-
+- 📧 Email: harshvardhanmagar77@gmail.com
+  
 ## 🙏 Acknowledgments
 
 - [React Team](https://reactjs.org/) for the amazing framework
